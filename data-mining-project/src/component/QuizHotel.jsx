@@ -49,7 +49,7 @@ export default function () {
 
     return (
         <div className='container'>
-            <h1 className='title text-light'>Job Application</h1>
+            <h1 className='title text-light'>Employablity Test</h1>
 
             <HotelQuestions onChecked={onChecked} />
 
