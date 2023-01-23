@@ -19,7 +19,7 @@ export default function Main() {
 
     return (
         <div className='container'>
-            <h1 className='title text-light'>Graduate Job Analysis</h1>
+            <h1 className='title text-light'>Employablity Test</h1>
 
             <ul>
                 <li>You will be asked 4 questions one after another.</li>
